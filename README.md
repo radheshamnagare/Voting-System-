@@ -1,7 +1,7 @@
 # Voting-System-
 
 
-unique identification and authorization voting system.we can get more acturate count through this system.
+Unique identification and authorization voting system.we can get more acturate voting count through this system.
 
 ## How can run
   we can run the code through remix IDE or like any compiler that support solidity.
